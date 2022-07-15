@@ -1,0 +1,28 @@
+body {
+  background-color: lavenderblush;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.start {
+  display: flex;
+  align-items: center;
+}
+.navbar {
+  position: top;
+  display: flex;
+}
+header {
+  background-color: darkslategray;
+}
+main {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  margin: auto;
+  padding: 1.6rem;
+}
+.info {
+  justify-items: center;
+}
+footer {
+  position: bottom;
+}
